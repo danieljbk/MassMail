@@ -1,5 +1,5 @@
 # MassMail
-Send Mass Emails with Personalized Scripts
+Send Emails en Masse with Personalized Scripts.
 
 ## Rules for Writing the Script:
 
