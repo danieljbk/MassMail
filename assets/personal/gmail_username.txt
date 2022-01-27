@@ -1,0 +1,4 @@
+sample@gmail.com
+^^^^
+Type your Gmail address here.
+Note: MassMail only supports sending emails from Gmail accounts.

@@ -1,0 +1,6 @@
+Hey there {name}! 👋🏽
+
+We'll be going over our agenda tomorrow around noon.
+
+See you soon!
+Daniel
