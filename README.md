@@ -1,5 +1,4 @@
-# MassMail
-Send Emails en Masse with Personalized Scripts.
+![CleanShot 2022-01-27 at 16 39 00@2x](https://user-images.githubusercontent.com/79312811/151448146-393b23bd-3be9-447a-834e-d3c635192275.png)
 
 ## Rules for Writing the Script:
 
